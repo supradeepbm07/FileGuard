@@ -1,0 +1,6 @@
+target/
+.vscode/
+storage/
+.env
+*.log
+suspicious.exe
